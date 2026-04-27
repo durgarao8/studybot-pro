@@ -1,0 +1,6 @@
+{
+  "name": "StudyBot Pro",
+  "description": "Adaptive study planner for GATE DA & Placement success. Tracks progress across Machine Learning, Algorithms, and Core Engineering subjects.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["AI Tutoring", "Dynamic Scheduling", "Progress Analytics"]
+}
